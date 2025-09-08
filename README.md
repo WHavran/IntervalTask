@@ -19,6 +19,7 @@ Každý řádek obsahuje dvojici hodnot: <start_usecky> <konec_usecky>. Ukončen
 ## Příklad
 ### Vstup:
 1 5 /
+1 2 /
 2 6 /
 4 7 /
 8 10
