@@ -18,12 +18,12 @@ Každý řádek obsahuje dvojici hodnot: <start_usecky> <konec_usecky>. Ukončen
 
 ## Příklad
 ### Vstup:
-1 5
-2 6
-4 7
+1 5 /
+2 6 /
+4 7 /
 8 10
 
 ### Výstup:
-1 5
-4 7
+1 5 /
+4 7 /
 8 10
