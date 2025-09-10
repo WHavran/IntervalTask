@@ -1,4 +1,5 @@
 # Interval Task – konzolová aplikace (externí zadání problému)
+Drobná úkázka vlastní impl
 
 ## Popis
 Konzolová aplikace řeší úlohu pokrytí přímky minimálním počtem úseček.  
