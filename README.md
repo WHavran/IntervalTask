@@ -11,7 +11,7 @@ Na výstupu vrátí podmnožinu úseček, která:
 ## Architektura
 - **Line** – datová struktura reprezentující úsečku (interval).
 - **LineCollector** – uchovává všechny vstupní úsečky.
-- **OperationManager** – obsahuje business logiku aplikace (validace vstupů, vyhodnocovací algoritmus).
+- **OperationManager** – obsahuje business logiku aplikace (validace vstupů, vyhodnocovací algoritmus). Interface + Impl class.
 - **LifeCycleManager** – zajišťuje základní běh konzolové aplikace (singleton).
 
 ## Vstupní formát
